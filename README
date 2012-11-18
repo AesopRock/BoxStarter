@@ -1,0 +1,38 @@
+Bash script for privacy and security on a remote server
+
+#####################################################
+####                                             ####
+##       OVH Config Script v. 0.12.brandynew       ##
+##                                                 ##
+##                                                 ##
+## Usage:  This script is meant to be run when you ##
+##         log into a new system for the first     ##
+##         time.   From then on, it can be re-run  ##
+##         periodically to make sure that the      ##
+##         system is secure.                       ##
+##                                                 ##
+## Notice: This script is still in the very early  ##
+##         stages.  It's also the first bash       ##
+##         script that I have ever written.  So    ##
+##         if you see aything or have any tips,    ##
+##         please let meknow.  Any feedback would  ##
+##         really be really be appreciated.        ##
+##                                                 ##
+## .:Please don't share this script w/o approval:. ##
+##                                                 ##
+## Other Notes:                                    ##
+##                                                 ##
+##         This script has only been tested on OVH ##
+##         running Arch. It uses programs and file ##
+##         locations that should be included by    ##
+##         default on most major distros, and it   ##
+##         is intended to work on most distros out ##
+##         of the box.  The aim is to have it be   ##
+##         able to run this no matter what is      ##
+##         being used.  So if you notice something ##
+##         that is not working properly, please    ##
+##         take down the distro you are using, and ##
+##         and let me know what the error was.     ##
+###                                               ###
+####                            -CAP             ####
+#####################################################

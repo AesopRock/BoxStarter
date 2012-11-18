@@ -22,17 +22,17 @@ Bash script for privacy and security on a remote server
 ##                                                 ##
 ## Other Notes:                                    ##
 ##                                                 ##
-##         This script has only been tested on OVH ##
-##         running Arch. It uses programs and file ##
-##         locations that should be included by    ##
-##         default on most major distros, and it   ##
-##         is intended to work on most distros out ##
-##         of the box.  The aim is to have it be   ##
-##         able to run this no matter what is      ##
-##         being used.  So if you notice something ##
-##         that is not working properly, please    ##
-##         take down the distro you are using, and ##
-##         and let me know what the error was.     ##
+##      This script has only been tested on OVH    ##
+##      running Arch. It uses programs and file    ##
+##      locations that should be included by       ##
+##      default on most major distros, and it      ##
+##      is intended to work on most distros out    ##
+##      of the box.  The aim is to have it be      ##
+##      able to run this no matter what is         ##
+##      being used.  So if you notice something    ##
+##      that is not working properly, please       ##
+##      take down the distro you are using, and    ##
+##      and let me know what the error was.        ##
 ###                                               ###
-####                            -Aesop           ####
+####                                             ####
 #####################################################
